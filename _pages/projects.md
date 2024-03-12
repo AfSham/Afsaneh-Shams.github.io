@@ -9,7 +9,7 @@ display_categories: [work, fun]
 horizontal: false
 ---
 
-▪ Developed an evolutionary CNN based model achieving 99.58%, 99.32%, and 92.58% classification accuracy on
+<!-- ▪ Developed an evolutionary CNN based model achieving 99.58%, 99.32%, and 92.58% classification accuracy on
 EMNIST_Digits, MNIST, and Fashion_MNIST datasets, respectively, by optimizing network efficiency.
 ▪ Implementing an efficient evolved neural network to determine optimal numbers of hidden layers and units to enhance
 image classification accuracy on benchmark datasets.
@@ -22,20 +22,22 @@ Used methods like Random Forest, Naïve Bayes, KNN, and Neural Networks.
 ▪ Project Management Tool and Cinema Ticketing Website: Developed PostgreSQL, MySQL and
 PhpMyAdmin for database management.
 ▪ A Synchronous Collaborative Programming tool to create a platform for Live coding for the sake of cooperative
-learning with proper collaboration.
-<!-- 
-<!-- pages/projects.md -->
-<!-- <div class="projects">
+learning with proper collaboration. -->
+
+
+
+pages/projects.md
+<div class="projects">
 {% if site.enable_project_categories and page.display_categories %}
-  <!-- Display categorized projects -->
-  <!-- {% for category in page.display_categories %}
+  Display categorized projects -->
+ {% for category in page.display_categories %}
   <a id="{{ category }}" href=".#{{ category }}">
     <h2 class="category">{{ category }}</h2>
   </a>
   {% assign categorized_projects = site.projects | where: "category", category %}
   {% assign sorted_projects = categorized_projects | sort: "importance" %}
-  <!-- Generate cards for each project -->
-  <!-- {% if page.horizontal %}
+  Generate cards for each project -->
+  {% if page.horizontal %}
   <div class="container">
     <div class="row row-cols-2">
     {% for project in sorted_projects %}
@@ -54,13 +56,13 @@ learning with proper collaboration.
 
 {% else %}
 
-<!-- Display projects without categories -->
+ Display projects without categories -->
 
-<!-- {% assign sorted_projects = site.projects | sort: "importance" %} -->
+{% assign sorted_projects = site.projects | sort: "importance" %} -->
 
-  <!-- Generate cards for each project -->
+ Generate cards for each project -->
 
-<!-- {% if page.horizontal %}
+{% if page.horizontal %}
 
   <div class="container">
     <div class="row row-cols-2">
@@ -77,4 +79,4 @@ learning with proper collaboration.
   </div>
   {% endif %}
 {% endif %} -->
-<!-- </div> --> --> --> --> -->
+</div> --> --> -->
