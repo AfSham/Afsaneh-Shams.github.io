@@ -7,15 +7,15 @@ nav: true
 nav_order: 2
 ---
 
-<!-- 1- “Evolving Efficient CNN Based Model for Image Classification”, Accepted at CSCE 2023,
+1- “Evolving Efficient CNN Based Model for Image Classification”, Accepted at CSCE 2023,
 (Paper ID: ICA4142). To be presented at the 25th International Conference on Artificial Intelligence (ICAI'23), Las Vegas, USA. IEEE Computer Society Conference Publishing Services (CPS).
 2- “Evolutionary CNN-Based Architectures with Attention Mechanisms for Enhanced Image
 Classification”, In Artificial Intelligence, Machine Learning, Convolutional Neural Networks, and Large Language Models. De Gruyter, part of the “Intelligent Computing” series. ISBN: 978-11-14400-3. Expected publication date: Early 2024.
-3- “A Survey of Evolutionary Algorithm Applications in Auto Machine Learning”, (In progress) -->
+3- “A Survey of Evolutionary Algorithm Applications in Auto Machine Learning”, (In progress)
 
-_pages/publications.md -->
+<!-- _pages/publications.md -->
  <div class="publications">
 
 {% bibliography %}
 
-</div> -->
+</div> --> -->
