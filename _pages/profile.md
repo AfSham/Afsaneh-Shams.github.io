@@ -1,4 +1,4 @@
-<!-- ---
+---
 layout: reviewed paper
 permalink: /people/
 title: reviewed paper
@@ -111,4 +111,4 @@ nav_order: 7
 	Chen, Yantong, Xianzhong Zhang, Weinan Chen, Yuyang Li, and Junsheng Wang. "Research on recognition of fly species based on improved RetinaNet and CBAM." IEEE Access 8 (2020): 102907-102919.
 	Fu, Huixuan, Guoqing Song, and Yuchao Wang. "Improved YOLOv4 marine target detection combined with CBAM." Symmetry 13, no. 4 (2021): 623.
 	”Calculus in Action: Neural Networks,” https://machinelearningmastery.com/calculus-in-action-neuralnetworks/, March 16, 2022.
-	Evolutionary Computation Course,” https://towardsdatascience.com/evolutionary-computation-full-courseoverview-f4e. -->
+	Evolutionary Computation Course,” https://towardsdatascience.com/evolutionary-computation-full-courseoverview-f4e.
