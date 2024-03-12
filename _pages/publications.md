@@ -15,9 +15,3 @@ Classification”, In Artificial Intelligence, Machine Learning, Convolutional N
 
 3- “A Survey of Evolutionary Algorithm Applications in Auto Machine Learning”, (In progress).
 
-<!-- _pages/publications.md -->
- <!-- <div class="publications">
-
-{% bibliography %}
-
-</div> --> 
