@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 group :jekyll_plugins do
-    gem "jekyll-feed", "~> 0.12"
+    #gem "jekyll-feed", "~> 0.12"
     gem "webrick"
     #gem 'wdm', '>=0.1.0'
     gem 'classifier-reborn'
