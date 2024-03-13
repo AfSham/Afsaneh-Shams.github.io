@@ -44,7 +44,7 @@
     - Developed an evolutionary CNN based model achieving high classification accuracy on EMNIST_Digits, MNIST, and Fashion_MNIST datasets.
     - Implementing an efficient evolved neural network for enhanced image classification accuracy.
     - Fake image region detection & description in deepfake images using YOLOv3.
-    - COVID-GAN project: Classifying COVID-19 from chest X-rays with Generative Adversarial Networks.
+    - COVID-GAN project, Classifying COVID-19 from chest X-rays with Generative Adversarial Networks.
     - Conducted ML analysis for RNA structure prediction and EEG dataset classification.
     - Developed a Project Management Tool and a Cinema Ticketing Website with PostgreSQL, MySQL, and PhpMyAdmin.
     - Created a Synchronous Collaborative Programming tool for Live coding and cooperative learning.
