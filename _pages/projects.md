@@ -29,4 +29,3 @@ PhpMyAdmin for database management.
 
 ▪ A Synchronous Collaborative Programming tool to create a platform for Live coding for the sake of cooperative
 learning with proper collaboration.
-

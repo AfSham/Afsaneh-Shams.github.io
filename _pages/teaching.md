@@ -6,6 +6,7 @@ description: #Materials for courses you taught. Replace this text with your desc
 nav: true
 nav_order: 6
 ---
+
 As a dedicated Teaching Assistant and Lab Instructor at the University of Georgia, I've had the privilege of contributing to various courses within the Computer Science department. My involvement has ranged from assisting in foundational courses to providing specialized instruction in labs, all aimed at enhancing students' understanding and skills in computer science, informatics, and data analytics. Below, you'll find a summary of the courses I've contributed to, reflecting my commitment to educational excellence and student success.
 
 As Teaching Assistant:
@@ -18,12 +19,12 @@ Description: Provided support in teaching fundamental concepts of discrete mathe
 Foundations for Informatics and Data Analytics (CSCI 1360E)
 Semesters: Summer 2021, Spring 2021
 Professors: Dr. Soheyla Amirian (Summer 2021), Dr. Farid Ghareh Mohammadi (Spring 2021)
-Description: Assisted in teaching the basics of informatics and data analytics, focusing on data structures, algorithms, and the application of statistical models in data analysis. 
+Description: Assisted in teaching the basics of informatics and data analytics, focusing on data structures, algorithms, and the application of statistical models in data analysis.
 
 Numerical Simulations in Science and Engineering (CSCI 4150)
 Semesters: Spring 2021, Spring 2022
 Professor: Dr. Salvatore LaMarca
-Description: Supported the instruction of numerical methods and their applications in scientific and engineering contexts. 
+Description: Supported the instruction of numerical methods and their applications in scientific and engineering contexts.
 
 Computer Networks (CSCI 4760E)
 Semester: Summer 2023

@@ -8,9 +8,9 @@
     - name: Email
       value: Afsaneh.Shams@uga.edu
     - name: LinkedIn
-      value: '[afsaneh-shams-b2b0ba1b6](https://www.linkedin.com/in/afsaneh-shams-b2b0ba1b6/)'
+      value: "[afsaneh-shams-b2b0ba1b6](https://www.linkedin.com/in/afsaneh-shams-b2b0ba1b6/)"
     - name: GitHub
-      value: '[AfSham](https://github.com/AfSham)'
+      value: "[AfSham](https://github.com/AfSham)"
 
 - title: Education
   type: time_table
@@ -74,5 +74,3 @@
   type: list
   contents:
     - Judge at the Georgia Science & Engineering Fair (GSEF) 2023 & 2024.
-
-

@@ -14,4 +14,3 @@ nav_order: 2
 Classification”, In Artificial Intelligence, Machine Learning, Convolutional Neural Networks, and Large Language Models. De Gruyter, part of the “Intelligent Computing” series. ISBN: 978-11-14400-3. Expected publication date: Early 2024.
 
 3- “A Survey of Evolutionary Algorithm Applications in Auto Machine Learning”, (In progress).
-
