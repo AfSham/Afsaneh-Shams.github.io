@@ -16,23 +16,42 @@
   type: time_table
   contents:
     - title: Ph.D. in Computer Science
-      institution: University of Georgia, Athens, GA, USA
+      institution: University of Georgia, Athens, GA
       year: 2020-Present
-    - title: M.Sc. in Electrical-Telecommunication Engineering
-      institution: Shiraz University, Shiraz, Iran
+    - title: M.Sc. in Electrical & Computer Engineering
+      institution: Shiraz University, Shiraz
       year: 2012-2016
-    - title: B.Sc. in Electrical-Telecommunication Engineering
-      institution: Shiraz University, Shiraz, Iran
+    - title: B.Sc. in Electrical & Computer Engineering
+      institution: Shiraz University, Shiraz
       year: 2007-2011
+
+- title: Research Interests
+  type: lst
+  contents:
+    - Artificial Intelligence and Machine Learning
+    - Evolutionary Algorithms
+    - Generative AI for Real-World Applications
+
+
+
 
 - title: Experience
   type: time_table
   contents:
+    - title: Research and Development Scientist-Intern 
+      institution: Roocreations Company, San Jose, CA
+      year: June 2024-Aug. 2024
     - title: Research and Development Team Member
-      institution: SSRL, University of Georgia, Athens, GA, USA
+      institution: SSRL, University of Georgia, Athens, GA
       year: 2023-Present
     - title: Teaching Assistant
-      institution: University of Georgia, Athens, GA, USA
+      type: list
+      contents: 
+        -	CSCI1301L, Lab Instructor
+        - CSCI 2610 
+        -	CSCI 1360E 
+        -	CSCI 4150
+      institution: University of Georgia, Athens, GA
       year: 2020-Present
     - title: Design Electrical Engineer
       institution: PIDEC, Shiraz, Iran
@@ -61,16 +80,36 @@
 - title: Publications
   type: list
   contents:
-    - Evolving Efficient CNN Based Model for Image Classification, Accepted at CSCE 2023, ICAI'23, Las Vegas, USA.
-    - Evolutionary CNN-Based Architectures with Attention Mechanisms for Enhanced Image Classification, Expected early 2024.
-    - A Survey of Evolutionary Algorithm Applications in Auto Machine Learning, in progress.
+    - Afsaneh Shams, Drew Becker, Kyle Becker, Soheyla Amirian, Khaled Rasheed. "Evolving Efficient 
+    CNN Based Model for Image Classification." In Proceedings of the 2023 International Conference on            
+    the World Congress in Computer Science, Computer Engineering, and Applied Computing (CSCE'23), 
+    July 24-27, 2023, Luxor (MGM), Las Vegas, Nevada, USA. IEEE Computer Society, 2023. Hamid R. 
+    Arabnia, Leonidas Deligiannidis, Fernando G. Tinetti, and Quoc-Nam Tran (Eds.). ISBN: 979-8-3503-
+    2759-5, IEEE Catalog Number: CFP23UB2-USB, BMS Part #: CFP23UB2-USB. DOI: 
+    10.1109/CSCE60160.2023.00041. p. 228. 
+
+    - Afsaneh Shams, Kyle Becker, Drew Becker, Soheyla Amirian, Khaled Rasheed “Evolutionary CNN-Based Architectures with Attention Mechanisms for Enhanced Image Classification”, In Artificial Intelligence, Machine Learning, Convolutional Neural Networks, and Large Language Models. De Gruyter, part of the “Intelligent Computing” series. ISBN: 978-11-14400-3. Expected publication date: Early 2024.
+
+    - Sakher Alqaaidi, Elika Bozorgi, Afsaneh Shams, Krzysztof Kochut. “A Few-Shot Learning Focused Survey on Recent Named Entity Recognition and Relation Classification Models”, Accepted at DATA 2024.
+
+    - Elika Bozorgi, Sakher Alqaaidi, Afsaneh Shams, Hamid Reza Arabnia, Krzysztof Kochut. “A Survey on Recent Random Walk-based Methods for Embedding Knowledge Graphs”, (Submitted).
+
+    - Afsaneh Shams, Khaled Rasheed. “A Survey of Recent Evolutionary Algorithms”, (In progress
+
+
+
+title: Certificates
+  type: list
+  contents:
+    - Johns Hopkins Teaching Institute Workshop, May 27, 2022
 
 - title: Honors and Awards
   type: list
   contents:
     - Outstanding Graduate TA Award, University of Georgia, 2023
 
-- title: Academic and Professional Activities
+- title: Professional Services
   type: list
   contents:
     - Judge at the Georgia Science & Engineering Fair (GSEF) 2023 & 2024.
+    - Georgia Science & Engineering Fair (GSEF) 2024, Judge, Apr. 2024.
