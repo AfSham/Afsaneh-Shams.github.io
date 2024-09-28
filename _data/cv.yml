@@ -26,7 +26,7 @@
       year: 2007-2011
 
 - title: Research Interests
-  type: lst
+  type: list
   contents:
     - Artificial Intelligence and Machine Learning
     - Evolutionary Algorithms
@@ -98,7 +98,7 @@
 
 
 
-title: Certificates
+- title: Certificates
   type: list
   contents:
     - Johns Hopkins Teaching Institute Workshop, May 27, 2022
