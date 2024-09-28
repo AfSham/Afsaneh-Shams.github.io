@@ -93,3 +93,11 @@ jobs:
         uses: JamesIves/github-pages-deploy-action@v4.4.0
         with:
           folder: _site
+
+
+      - name: Check for broken links
+        uses: lycheeverse/lychee-action@v1.9.0
+        with:
+          args: --exclude "https://www.linkedin.com" --exit-zero-on-skipped
+
+  
