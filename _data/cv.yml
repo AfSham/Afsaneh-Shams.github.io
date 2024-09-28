@@ -57,7 +57,7 @@
 - title: Projects
   type: list
   contents:
-    - Developed an evolutionary CNN based model achieving high classification accuracy on EMNIST_Digits, MNIST, and Fashion_MNIST datasets.
+    - Developed an evolutionary CNN-based model achieving high classification accuracy on EMNIST_Digits, MNIST, and Fashion_MNIST datasets.
     - Implementing an efficient evolved neural network for enhanced image classification accuracy.
     - Fake image region detection & description in deepfake images using YOLOv3.
     - COVID-GAN project, Classifying COVID-19 from chest X-rays with Generative Adversarial Networks.
@@ -71,7 +71,7 @@
     - Programming Language: Python, Java, Matlab, C
     - Database Management: PostgreSQL, MySQL, phpMyAdmin, Neo4j
     - Machine Learning & Data Science: PyTorch, TensorFlow
-    - Analyzer & Design Tools: Figma, WEKA, StarUML, VHDL, Pspice
+    - Analyzer & Design Tools: Figma, WEKA, StarUML, VHDL, PSpice
     - Personality: Independent, team player, self-motivated, hardworking, quick learner, strong communicator
 
 - title: Publications
