@@ -49,8 +49,17 @@ jobs:
         with:
           fail: true
           # removed md files that include liquid tags
-          args: --exclude https://www.linkedin.com --exclude-path README.md --exclude-path _pages/404.md --exclude-path _pages/blog.md --exclude-path _posts/2018-12-22-distill.md --verbose --no-progress './**/*.md' './**/*.html'
-          args: --exclude "data:image/png;base64" --exclude https://www.linkedin.com --exclude-path README.md --exclude-path _pages/404.md --exclude-path _pages/blog.md --exclude-path _posts/2018-12-22-distill.md --verbose --no-progress './**/*.md' './**/*.html'
-          args: --include 200 --exclude 999 --exclude-path README.md --exclude https://www.linkedin.com --verbose --no-progress './**/*.md' './**/*.html'
+          args: >
+            --exclude https://www.linkedin.com
+            --exclude "data: image/png;base64"
+            --exclude-path README.md
+            --exclude-path _pages/404.md
+            --exclude-path _pages/blog.md
+            --exclude-path _posts/2018-12-22-distill.md
+            --include 200
+            --exclude 999
+            --verbose
+            --no-progress './**/*.md' './**/*.html'
+
 
           # args: --exclude-path README.md --exclude-path _pages/404.md --exclude-path _pages/blog.md --exclude-path _posts/2018-12-22-distill.md --verbose --no-progress './**/*.md' './**/*.html'
