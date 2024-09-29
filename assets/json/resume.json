@@ -88,8 +88,7 @@
       "startDate": "2012",
       "endDate": "2018",
       "location": "Shiraz",
-      "summary": "Experience of working on more than 10 projects in the electrical and computer engineering fields
-"
+      "summary": "Experience of working on more than 10 projects in the electrical and computer engineering fields."
     }
   ],
   "projects": [
@@ -126,33 +125,40 @@
       "description": "Created a Synchronous Collaborative Programming tool for live coding and cooperative learning."
     }
   ],
-  "skills": [
-    {
-      "name": "Programming Languages",
-      "level": "",
-      "keywords": ["Python", "Java", "Matlab", "C"]
-    },
-    {
-      "name": "Database Management",
-      "level": "",
-      "keywords": ["PostgreSQL", "MySQL", "phpMyAdmin", "Neo4j"]
-    },
-    {
-      "name": "Machine Learning & Data Science",
-      "level": "",
-      "keywords": ["PyTorch", "TensorFlow"]
-    },
-    {
-      "name": "Analyzer & Design Tools",
-      "level": "",
-      "keywords": ["Figma", "WEKA", "StarUML", "VHDL", "Pspice"]
-    },
-    {
-      "name": "Personality",
-      "level": "",
-      "keywords": ["Independent", "team player", "self-motivated", "hardworking", "quick learner", "strong communicator"]
-    }
+  "Skills": [
+    "Programming Languages": [
+      "Python", 
+      "Java", 
+      "Matlab", 
+      "C"
+    ],
+    "Database Management": [
+      "PostgreSQL", 
+      "MySQL", 
+      "phpMyAdmin", 
+      "Neo4j"
+    ],
+    "Machine Learning & Data Science": [
+      "PyTorch", 
+      "TensorFlow"
+    ],
+    "Analyzer & Design Tools": [
+      "Figma", 
+      "WEKA", 
+      "StarUML", 
+      "VHDL", 
+      "PSpice"
+    ],
+    "Personality Traits": [
+      "Independent", 
+      "team player", 
+      "self-motivated", 
+      "hardworking", 
+      "quick learner", 
+      "strong communicator"
+    ]
   ],
+
 "publications": [
   {
     "title": "Evolving Efficient CNN Based Model for Image Classification",
