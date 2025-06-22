@@ -7,18 +7,16 @@ nav: true
 nav_order: 2
 ---
 
-1- Afsaneh Shams, Drew Becker, Kyle Becker, Soheyla Amirian, Khaled Rasheed. "Evolving Efficient
-CNN Based Model for Image Classification." In Proceedings of the 2023 International Conference on  
-the World Congress in Computer Science, Computer Engineering, and Applied Computing (CSCE'23),
-July 24-27, 2023, Luxor (MGM), Las Vegas, Nevada, USA. IEEE Computer Society, 2023. Hamid R.
-Arabnia, Leonidas Deligiannidis, Fernando G. Tinetti, and Quoc-Nam Tran (Eds.). ISBN: 979-8-3503-
-2759-5, IEEE Catalog Number: CFP23UB2-USB, BMS Part #: CFP23UB2-USB. DOI:
-10.1109/CSCE60160.2023.00041. p. 228.
+1- Shams, A., Bozorgi, E., Darbandi, M. R. (Nima), Amirian, S., & Rasheed, K. (2025). ‘Evolutionary computing applications and trends from 2010 to 2025: A brief review’. Accepted at AIR-RES 2025.
 
-2- Afsaneh Shams, Kyle Becker, Drew Becker, Soheyla Amirian, Khaled Rasheed “Evolutionary CNN-Based Architectures with Attention Mechanisms for Enhanced Image Classification”, In Artificial Intelligence, Machine Learning, Convolutional Neural Networks, and Large Language Models. De Gruyter, part of the “Intelligent Computing” series. ISBN: 978-11-14400-3. Expected publication date: Early 2024.
+2- Bozorgi, E., Alqaaidi, S. K., Shams, A., et al. (2025). ‘A survey on the recent random walk-based methods for embedding graphs. Journal of Supercomputing’, 81, 619. https://doi.org/10.1007/s11227-025-07019-x
 
-3- Sakher Alqaaidi, Elika Bozorgi, Afsaneh Shams, Krzysztof Kochut. “A Few-Shot Learning Focused Survey on Recent Named Entity Recognition and Relation Classification Models”, Accepted at DATA 2024.
+3- Shams, A., Becker, K., Becker, D., Amirian, S., & Rasheed, K. (2024). ‘Evolutionary CNN-based architectures with attention mechanisms for enhanced image classification’. In Artificial Intelligence: Machine Learning, Convolutional Neural Networks and Large Language Models, 1, 107.
 
-4- Elika Bozorgi, Sakher Alqaaidi, Afsaneh Shams, Hamid Reza Arabnia, Krzysztof Kochut. “A Survey on Recent Random Walk-based Methods for Embedding Knowledge Graphs”, (Submitted).
+4- Shams, A., Becker, D., Becker, K., Amirian, S., & Rasheed, K. (2023). ‘Evolving efficient CNN-based model for image classification. In 2023 Congress on Computer Science’, Computer Engineering, & Applied Computing (CSCE), IEEE, pp. 228–235.
 
-5- Afsaneh Shams, Khaled Rasheed. “A Survey of Recent Evolutionary Algorithms”, (In progress).
+5- Alqaaidi, S. K., Bozorgi, E., Shams, A., & Kochut, K. J. ‘A few-shot learning-focused survey on recent named entity recognition and relation classification models’. (Manuscript).
+
+6- Shams, A., & Rasheed, K. ‘Hybrid evolutionary KAN transformer’. (In preparation).
+
+7- Shams, A., & Rasheed, K. ‘A survey of recent evolutionary algorithms’. (In preparation).

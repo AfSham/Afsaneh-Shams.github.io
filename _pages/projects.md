@@ -9,23 +9,24 @@ display_categories: [work, fun]
 horizontal: false
 ---
 
-▪ Developed an evolutionary CNN based model achieving 99.58%, 99.32%, and 92.58% classification accuracy on
-EMNIST_Digits, MNIST, and Fashion_MNIST datasets, respectively, by optimizing network efficiency.
+▪ Healthcare Data Modeling: Developed regression models on CMS Chronic Conditions Warehouse (CCW) data to analyze healthcare patterns and predict patient outcomes. Tasks included large-scale data cleaning, feature engineering, and predictive modeling.
 
-▪ Implementing an efficient evolved neural network to determine optimal numbers of hidden layers and units to enhance
-image classification accuracy on benchmark datasets.
+▪ KANEATFormer: Designed and implemented KANEATFormer by integrating Kolmogorov–Arnold Networks (KAN, 2024) into EATFormer, an evolutionary transformer. Improved model interpretability and accuracy while reducing computational cost through learnable edge-based activations.
 
-▪ Fake image region detection & description in deepfake images, in this project the effectiveness of YOLOv3 for object
-detection of PSCC-Net samples was studied & the fake objects were marked by mask or bounding box.
+▪ Hybrid Attention CNN (AECNNB): Enhanced an evolutionary CNN (ECNNB) with CBAM and MobileViTv2 attention mechanisms, resulting in a 9.77% accuracy gain on CIFAR-10.
 
-▪ COVID-GAN: supervised vs semi-supervised, we studied the effect of Generative Adversarial Networks (GANs) to
-classify COVID-19 from chest X-rays, enhancing detection by training with a mix of unannotated and normal images.
+▪ Evolutionary CNN: Developed a highly accurate CNN optimized via evolutionary strategies, achieving 99.58% (EMNIST_Digits), 99.32% (MNIST), and 92.58% (Fashion-MNIST).
 
-▪ Conducted ML analysis in WEKA for RNA structure prediction (94.01% accuracy) and EEG dataset classification.
-Used methods like Random Forest, Naïve Bayes, KNN, and Neural Networks.
+▪ Neural Architecture Search: Implemented an evolutionary algorithm to optimize the number of hidden layers and units for image classification tasks.
 
-▪ Project Management Tool and Cinema Ticketing Website: Developed PostgreSQL, MySQL and
-PhpMyAdmin for database management.
+▪ Deepfake Detection: Used YOLOv3 to detect and annotate manipulated regions in PSCC-Net deepfake images with masks and bounding boxes.
 
-▪ A Synchronous Collaborative Programming tool to create a platform for Live coding for the sake of cooperative
-learning with proper collaboration.
+▪ COVID-GAN: Applied both supervised and semi-supervised GANs to classify COVID-19 from chest X-rays using a mix of annotated and unannotated images.
+
+▪ RNA & EEG Classification: Conducted analysis in WEKA for RNA structure prediction (94.01% accuracy) and EEG signal classification using Random Forest, Naïve Bayes, KNN, and Neural Networks.
+
+▪ Web-Based Tools: Developed databases and backends for a project management tool (link) and a cinema ticketing system (link) using PostgreSQL, MySQL, and phpMyAdmin.
+
+▪ Collaborative Coding Platform: Built a real-time synchronous programming environment to support cooperative learning and live code sharing (link).
+
+▪ Signal Processing Simulations: Completed simulations and analyses for various signal processing applications using tools such as Pspice and Matlab.
