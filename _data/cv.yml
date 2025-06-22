@@ -1,3 +1,8 @@
+
+    # - title: Research and Development Team Member
+    #   institution: SSRL, University of Georgia, Athens, GA
+    #   year: 2023-Present
+
 - title: General Information
   type: map
   contents:
@@ -79,16 +84,10 @@
         - Contributed to model optimization, debugging, and parameter flow design.
         - Automated data handling and reporting using NumPy, Pandas, and internal file integration tools.
         - Gained hands-on experience in AI innovation and early-stage neural architecture research in an industry setting.
-
       institution: Roocreations Company, San Jose, CA, USA
       year: June 2024-Sep. 2024
 
-    # - title: Research and Development Team Member
-    #   institution: SSRL, University of Georgia, Athens, GA
-    #   year: 2023-Present
-
     - title: Teaching Assistant
-<<<<<<< HEAD
       type: list
       contents:
         - Served as TA for multiple undergraduate courses including Numerical Simulations in Science & Engineering, Foundations for Informatics and Data Analytics, and Discrete Mathematics for Computer Science
@@ -98,8 +97,6 @@
         - Consistently received positive evaluations from instructors and students.
         - Recipient of the Outstanding Graduate Teaching Assistant Award (May 2023).
         - Gained deep experience in academic mentoring, student engagement, and technical instruction.
-=======
->>>>>>> c90ef4c592437331598fedac8b74ac3ad3cf8de1
       institution: University of Georgia, Athens, GA
       year: Aug. 2020-Jan. 2025
 
@@ -115,7 +112,6 @@
 - title: Projects
   type: list
   contents:
-<<<<<<< HEAD
     - "Healthcare Data Modeling: Developed regression models on CMS Chronic Conditions Warehouse (CCW) data to analyze healthcare patterns and predict patient outcomes. Tasks included large-scale data cleaning, feature engineering, and predictive modeling."
     - "KANEATFormer: Designed and implemented KANEATFormer by integrating Kolmogorov-Arnold Networks (KAN, 2024) into EATFormer, an evolutionary transformer. Improved model interpretability and accuracy while reducing computational cost through learnable edge-based activations."
     - "Hybrid Attention CNN (AECNNB): Enhanced an evolutionary CNN (ECNNB) with CBAM and MobileViTv2 attention mechanisms, resulting in a 9.77% accuracy gain on CIFAR-10."
@@ -130,6 +126,7 @@
 
 - title: Skills
   type: list
+  contents:
     - "Programming Languages : Python, Java, Matlab, C, Visual Basic"
     - "Machine Learning & AI Frameworks : PyTorch, TensorFlow, Keras, Scikit-learn, XGBoost, imbalanced-learn"
     - "ML/DL Techniques : KAN (Kolmogorov-Arnold Network), Hybrid Architectures, Convolutional Neural Networks (CNN), Transformers, Deep Neural Networks, Decision Trees, Random Forest, Linear Regression, SMOTE, SMOTEENN, Cross-validation, Grid Search"
@@ -142,7 +139,6 @@
     - "Graphics & CAD Software : AutoCAD, PDMS"
     - "Languages : English (Fluent), French (Basic)"
     - "Professional Attributes : Independent & Collaborative, Self-motivated, Detail-oriented, Quick Learner, Analytical Thinker, Strong Communication, Multitasker, Performance-driven"
-=======
     - Developed an evolutionary CNN-based model achieving high classification accuracy on EMNIST_Digits, MNIST, and Fashion_MNIST datasets.
     - Implementing an efficient evolved neural network for enhanced image classification accuracy.
     - Fake image region detection & description in deepfake images using YOLOv3.
@@ -159,7 +155,7 @@
     - Machine Learning & Data Science: PyTorch, TensorFlow
     - Analyzer & Design Tools: Figma, WEKA, StarUML, VHDL, PSpice
     - Personality: Independent, team player, self-motivated, hardworking, quick learner, strong communicator
->>>>>>> c90ef4c592437331598fedac8b74ac3ad3cf8de1
+
 
 - title: Publications
   type: list
@@ -177,17 +173,14 @@
 #   contents:
 #     - Johns Hopkins Teaching Institute Workshop, May 27, 2022
 
-<<<<<<< HEAD
 - title: Honors & Certifications
-=======
+  type: list
+  contents:
     - Sakher Alqaaidi, Elika Bozorgi, Afsaneh Shams, Krzysztof Kochut. “A Few-Shot Learning Focused Survey on Recent Named Entity Recognition and Relation Classification Models”, Accepted at DATA 2024.
-
     - Elika Bozorgi, Sakher Alqaaidi, Afsaneh Shams, Hamid Reza Arabnia, Krzysztof Kochut. “A Survey on Recent Random Walk-based Methods for Embedding Knowledge Graphs”, (Submitted).
-
     - Afsaneh Shams, Khaled Rasheed. “A Survey of Recent Evolutionary Algorithms”, (In progress)
 
 - title: Certificates
->>>>>>> c90ef4c592437331598fedac8b74ac3ad3cf8de1
   type: list
   contents:
     - Outstanding Graduate TA Award, Computer Science Department, University of Georgia, May 2023
