@@ -8,9 +8,32 @@
     - name: Email
       value: Afsaneh.Shams@uga.edu
     - name: LinkedIn
-      value: "[afsaneh-shams-b2b0ba1b6](https://www.linkedin.com/in/afsaneh-shams-b2b0ba1b6/)"
+      value: "[afsaneh-shams-b2b0ba1b6](https://www.linkedin.com/in/afsanehshams)"
     - name: GitHub
       value: "[AfSham](https://github.com/AfSham)"
+
+- title: Research Interests
+  type: list
+  contents:
+    - Artificial Intelligence 
+    - Machine Learning and Deep Learning and Predictive Modeling 
+    - Evolutionary Algorithms
+    - Generative AI and LLM for Real-World Applications
+    - Large-Scale Data Processing and High-Performance Computing (HPC)
+    - Statistical Analysis
+
+- title: Technical Interests
+  type: list
+  contents:
+    - Machine Learning and Deep Learning
+    - Data Science and Statistical Analysis
+    - Large-Scale Data Processing and Real-World Data Analytics
+    - Evolutionary Algorithms and Optimization Techniques
+    - Generative AI and Large Language Models (LLMs)
+    - Hybrid Neural Architectures 
+    - Computer Vision and Image Classification
+    - AI Applications in Healthcare and Education
+    - High-Performance Computing (HPC) and Model Evaluation under Class Imbalance
 
 - title: Education
   type: time_table
@@ -32,73 +55,118 @@
     - Evolutionary Algorithms
     - Generative AI for Real-World Applications
 
-- title: Experience
+- title: Work Experience
   type: time_table
   contents:
+    - title: Research Assistant
+      type: list
+      contents:
+        -	Conduct large-scale analysis of CMS datasets (MedPAR, MDS, MBSF) to investigate hospital readmissions following skilled nursing facility (SNF) discharge.
+        - Develop scalable pipelines in Python for data cleaning, integration, and custom feature engineering.
+        - Apply advanced resampling techniques (e.g., SMOTE, SMOTEENN) to address extreme class imbalance.
+        - Build and evaluate predictive models, including Random Forest, XGBoost, Decision Trees, Linear Regression, and deep neural networks.
+        - Utilize high-performance computing clusters for parallel processing of millions of records.
+        - Deliver encrypted and publication-ready outputs for collaborative research projects.
+        - Specialize in deploying real-world machine learning solutions for structured healthcare data.
+      institution: Public Health Department, University of Georgia, Athens, GA, USA
+      year: Aug. 2024-Present
+
     - title: Research and Development Scientist-Intern
-      institution: Roocreations Company, San Jose, CA
-      year: June 2024-Aug. 2024
-    - title: Research and Development Team Member
-      institution: SSRL, University of Georgia, Athens, GA
-      year: 2023-Present
+      type: list
+      contents:
+        - Collaborated directly with the CEO and a faculty member from the University of San Francisco on AI model design and experimentation.
+        - Co-developed a novel gradient-descent-based neural network architecture using Python.
+        - Contributed to model optimization, debugging, and parameter flow design.
+        - Automated data handling and reporting using NumPy, Pandas, and internal file integration tools.
+        - Gained hands-on experience in AI innovation and early-stage neural architecture research in an industry setting.
+
+      institution: Roocreations Company, San Jose, CA, USA
+      year: June 2024-Sep. 2024
+
+    # - title: Research and Development Team Member
+    #   institution: SSRL, University of Georgia, Athens, GA
+    #   year: 2023-Present
+
     - title: Teaching Assistant
       type: list
       contents:
-        - CSCI1301L, Lab Instructor
-        - CSCI 2610
-        - CSCI 1360E
-        - CSCI 4150
+        - Served as TA for multiple undergraduate courses including Numerical Simulations in Science & Engineering, Foundations for Informatics and Data Analytics, and Discrete Mathematics for Computer Science
+        - Acted as lab instructor for several semesters in CSCI 1301L (Java lab), leading each session with a short lecture to explain objectives and key programming concepts.
+        - Assisted students in understanding lab material, debugging code, and completing assignments.
+        - Used Eclipse, IntelliJ, and eLC (UGA's learning platform) to manage coursework and student communication.
+        - Consistently received positive evaluations from instructors and students.
+        - Recipient of the Outstanding Graduate Teaching Assistant Award (May 2023).
+        - Gained deep experience in academic mentoring, student engagement, and technical instruction.
       institution: University of Georgia, Athens, GA
-      year: 2020-Present
+      year: Aug. 2020-Jan. 2025
+
     - title: Design Electrical Engineer
-      institution: PIDEC, Shiraz, Iran
-      year: 2012-2018
+      type: list
+      contents:
+        - Contributed to 10-15 engineering projects across industrial systems.
+        - Designed and implemented electrical infrastructure for Heat Tracing Systems, Lighting Systems, Communication Systems, and CCTV and security networks
+
+      institution: PIDEC, Shiraz
+      year: June 2012-March 2018
 
 - title: Projects
   type: list
   contents:
-    - Developed an evolutionary CNN based model achieving high classification accuracy on EMNIST_Digits, MNIST, and Fashion_MNIST datasets.
-    - Implementing an efficient evolved neural network for enhanced image classification accuracy.
-    - Fake image region detection & description in deepfake images using YOLOv3.
-    - COVID-GAN project, Classifying COVID-19 from chest X-rays with Generative Adversarial Networks.
-    - Conducted ML analysis for RNA structure prediction and EEG dataset classification.
-    - Developed a Project Management Tool and a Cinema Ticketing Website with PostgreSQL, MySQL, and PhpMyAdmin.
-    - Created a Synchronous Collaborative Programming tool for Live coding and cooperative learning.
+    - "Healthcare Data Modeling: Developed regression models on CMS Chronic Conditions Warehouse (CCW) data to analyze healthcare patterns and predict patient outcomes. Tasks included large-scale data cleaning, feature engineering, and predictive modeling."
+    - "KANEATFormer: Designed and implemented KANEATFormer by integrating Kolmogorov-Arnold Networks (KAN, 2024) into EATFormer, an evolutionary transformer. Improved model interpretability and accuracy while reducing computational cost through learnable edge-based activations."
+    - "Hybrid Attention CNN (AECNNB): Enhanced an evolutionary CNN (ECNNB) with CBAM and MobileViTv2 attention mechanisms, resulting in a 9.77% accuracy gain on CIFAR-10."
+    - "Evolutionary CNN: Developed a highly accurate CNN optimized via evolutionary strategies, achieving 99.58% (EMNIST_Digits), 99.32% (MNIST), and 92.58% (Fashion-MNIST)."
+    - "Neural Architecture Search: Implemented an evolutionary algorithm to optimize the number of hidden layers and units for image classification tasks."
+    - "Deepfake Detection: Used YOLOv3 to detect and annotate manipulated regions in PSCC-Net deepfake images with masks and bounding boxes."
+    - "COVID-GAN: Applied both supervised and semi-supervised GANs to classify COVID-19 from chest X-rays using a mix of annotated and unannotated images."
+    - "RNA & EEG Classification: Conducted analysis in WEKA for RNA structure prediction (94.01% accuracy) and EEG signal classification using Random Forest, Naïve Bayes, KNN, and Neural Networks."
+    - "Web-Based Tools: Developed databases and backends for a project management tool (link) and a cinema ticketing system (link) using PostgreSQL, MySQL, and phpMyAdmin."
+    - "Collaborative Coding Platform: Built a real-time synchronous programming environment to support cooperative learning and live code sharing (link)."
+    - "Signal Processing Simulations: Completed simulations and analyses for various signal processing applications using tools such as Pspice and Matlab."
 
 - title: Skills
   type: list
-  contents:
-    - Programming Language: Python, Java, Matlab, C
-    - Database Management: PostgreSQL, MySQL, phpMyAdmin, Neo4j
-    - Machine Learning & Data Science: PyTorch, TensorFlow
-    - Analyzer & Design Tools: Figma, WEKA, StarUML, VHDL, Pspice
-    - Personality: Independent, team player, self-motivated, hardworking, quick learner, strong communicator
+    - "Programming Languages : Python, Java, Matlab, C, Visual Basic"
+    - "Machine Learning & AI Frameworks : PyTorch, TensorFlow, Keras, Scikit-learn, XGBoost, imbalanced-learn"
+    - "ML/DL Techniques : KAN (Kolmogorov-Arnold Network), Hybrid Architectures, Convolutional Neural Networks (CNN), Transformers, Deep Neural Networks, Decision Trees, Random Forest, Linear Regression, SMOTE, SMOTEENN, Cross-validation, Grid Search"
+    - "Data Science & Analysis Tools : NumPy, Pandas, Jupyter Notebooks, WEKA"
+    - "High-Performance & Parallel Computing : SLURM, ProcessPoolExecutor, Pandarallel, Shell Scripting, HPC Cluster Usage"
+    - "Database & Data Management : PostgreSQL, MySQL, phpMyAdmin, Neo4j"
+    - "Development Tools & Environments : Git, Eclipse, IntelliJ, Linux, UNIX"
+    - "Modeling, Simulation & Design Tools : Figma, StarUML, VHDL, Pspice, NS, SAFT, Mazinoor, Dialux"
+    - "Documentation & Office Software : Microsoft Office, Adobe Acrobat"
+    - "Graphics & CAD Software : AutoCAD, PDMS"
+    - "Languages : English (Fluent), French (Basic)"
+    - "Professional Attributes : Independent & Collaborative, Self-motivated, Detail-oriented, Quick Learner, Analytical Thinker, Strong Communication, Multitasker, Performance-driven"
 
 - title: Publications
   type: list
   contents:
-    - Afsaneh Shams, Drew Becker, Kyle Becker, Soheyla Amirian, Khaled Rasheed. "Evolving Efficient CNN Based Model for Image Classification." In Proceedings of the 2023 International Conference on the World Congress in Computer Science, Computer Engineering, and Applied Computing (CSCE'23), July 24-27, 2023, Luxor (MGM), Las Vegas, Nevada, USA. IEEE Computer Society, 2023. Hamid R. Arabnia, Leonidas Deligiannidis, Fernando G. Tinetti, and Quoc-Nam Tran (Eds.). ISBN:/ 979-8-3503-2759-5, IEEE Catalog Number:/ CFP23UB2-USB, DOI:10.1109/CSCE60160.2023.00041. p. 228.
+    - "Shams, A., Bozorgi, E., Darbandi, M. R. (Nima), Amirian, S., & Rasheed, K. (2025). 'Evolutionary computing applications and trends from 2010 to 2025: A brief review'. Accepted at AIR-RES 2025."
+    - "Bozorgi, E., Alqaaidi, S. K., Shams, A., et al. (2025). 'A survey on the recent random walk-based methods for embedding graphs. Journal of Supercomputing', 81, 619. https://doi.org/10.1007/s11227-025-07019-x"
+    - "Shams, A., Becker, K., Becker, D., Amirian, S., & Rasheed, K. (2024). 'Evolutionary CNN-based architectures with attention mechanisms for enhanced image classification'. In Artificial Intelligence: Machine Learning, Convolutional Neural Networks and Large Language Models, 1, 107."
+    - "Shams, A., Becker, D., Becker, K., Amirian, S., & Rasheed, K. (2023). 'Evolving efficient CNN-based model for image classification. In 2023 Congress on Computer Science', Computer Engineering, & Applied Computing (CSCE), IEEE, pp. 228-235."
+    - "Alqaaidi, S. K., Bozorgi, E., Shams, A., & Kochut, K. J. 'A few-shot learning-focused survey on recent named entity recognition and relation classification models'. (Manuscript)."
+    - "Shams, A., & Rasheed, K. 'Hybrid evolutionary KAN transformer'. (In preparation)."
+    - "Shams, A., & Rasheed, K. 'A survey of recent evolutionary algorithms'. (In preparation)."
 
-    - Afsaneh Shams, Kyle Becker, Drew Becker, Soheyla Amirian, Khaled Rasheed “Evolutionary CNN-Based Architectures with Attention Mechanisms for Enhanced Image Classification”, In Artificial Intelligence, Machine Learning, Convolutional Neural Networks, and Large Language Models. De Gruyter, part of the “Intelligent Computing” series. ISBN:/ 978-11-14400-3. Expected publication date:/ Early 2024.
+# - title: Certificates
+#   type: list
+#   contents:
+#     - Johns Hopkins Teaching Institute Workshop, May 27, 2022
 
-    - Sakher Alqaaidi, Elika Bozorgi, Afsaneh Shams, Krzysztof Kochut. “A Few-Shot Learning Focused Survey on Recent Named Entity Recognition and Relation Classification Models”, Accepted at DATA 2024.
-
-    - Elika Bozorgi, Sakher Alqaaidi, Afsaneh Shams, Hamid Reza Arabnia, Krzysztof Kochut. “A Survey on Recent Random Walk-based Methods for Embedding Knowledge Graphs”, (Submitted).
-
-    - Afsaneh Shams, Khaled Rasheed. “A Survey of Recent Evolutionary Algorithms”, (In progress
-
-- title: Certificates
+- title: Honors & Certifications
   type: list
   contents:
-    - Johns Hopkins Teaching Institute Workshop, May 27, 2022
+    - Outstanding Graduate TA Award, Computer Science Department, University of Georgia, May 2023
+    - Teaching Certificate, Johns Hopkins Teaching Institute Workshop (CIRTL Network), May 27, 2022
 
-- title: Honors and Awards
+- title: Professional Activities
   type: list
   contents:
-    - Outstanding Graduate TA Award, University of Georgia, 2023
-
-- title: Professional Services
-  type: list
-  contents:
-    - Judge at the Georgia Science & Engineering Fair (GSEF) 2023 & 2024.
-    - Georgia Science & Engineering Fair (GSEF) 2024, Judge, Apr. 2024.
+    - Judge, Georgia Science & Engineering Fair (GSEF), March 2023
+    - Judge, Georgia Science & Engineering Fair (GSEF), April 2024
+    - Peer Reviewer, Neural Networks, 2025
+    - Peer Reviewer, Engineering Applications of Artificial Intelligence, 2025
+    - Peer Reviewer, Neurocomputing, 2025
+    - Conference Session Chair, The 2025 International Conference on the AI Revolution, Research, Ethics, and Society (AIR-RES 2025), USA, April 2025
