@@ -213,6 +213,4 @@ nav_order: 7
 
 • Fu, Huixuan, Guoqing Song, and Yuchao Wang. "Improved YOLOv4 marine target detection combined with CBAM." Symmetry 13, no. 4 (2021): 623.
 
-• ”Calculus in Action: Neural Networks,” https://machinelearningmastery.com/calculus-in-action-neuralnetworks/, March 16, 2022.
 
-• Evolutionary Computation Course,” https://towardsdatascience.com/evolutionary-computation-full-courseoverview-f4e.
