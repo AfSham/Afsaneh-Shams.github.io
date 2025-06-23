@@ -4,8 +4,10 @@ I have a diverse professional background that spans both academia and industry. 
 
 Prior to my doctoral studies, I worked as a Design Electrical Engineer at PIDEC in Shiraz, contributing to ten to fifteen engineering projects in industrial systems, including heat tracing, lighting, communication, and surveillance. This hands-on engineering experience has strengthened my practical problem-solving abilities and enhanced my capacity to address real-world challenges through research.
 
-Connect with me and follow my work:
+## Connect with Me
 
-- LinkedIn: https://www.linkedin.com/in/afsanehshams/
-- GitHub: https://github.com/AfSham
-- ResearchGate: https://www.researchgate.net/profile/Afsaneh-Shams-3
+- 📧 [Email](mailto:Afsaneh.shams@uga.edu)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/afsanehshams/)
+- 💻 [GitHub](https://github.com/AfSham)
+- 📚 [Google Scholar](https://scholar.google.com/citations?user=wj8_icUAAAAJ&hl=en&oi=ao)
+- 📖 [ResearchGate](https://www.researchgate.net/profile/Afsaneh-Shams-3)
